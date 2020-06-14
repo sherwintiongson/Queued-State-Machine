@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1529631159 source:c:\sherwin\projects\qsm\qsm_project\qsm\qsm.c
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+	"qsm.h"
+	"qsm_event_handler.h"
+
+1512440818 c:\sherwin\projects\qsm\qsm_project\qsm\qsm.h
+	"qsm_config.h"
+
+1512440818 c:\sherwin\projects\qsm\qsm_project\qsm\qsm_config.h
+
+1504591952 c:\sherwin\projects\qsm\qsm_project\qsm\qsm_event_handler.h
+
+1512440818 source:c:\sherwin\projects\qsm\qsm_project\qsm\qsm_event_handler.c
+	<stdio.h>
+	"qsm.h"
+	"qsm_event_handler.h"
+
+1588217870 source:c:\sherwin\projects\qsm\qsm_project\qsm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdint.h>
+	"qsm.h"
+
+1588306938 source:c:\sherwin\knowledgebase\rf engineering\lora\1-week microchip lorawan stack\results\qsm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdint.h>
+	"qsm.h"
+
+1512440818 c:\sherwin\knowledgebase\rf engineering\lora\1-week microchip lorawan stack\results\qsm\qsm.h
+	"qsm_config.h"
+
+1588307549 c:\sherwin\knowledgebase\rf engineering\lora\1-week microchip lorawan stack\results\qsm\qsm_config.h
+
+1588416357 source:c:\sherwin\knowledgebase\rf engineering\lora\1-week microchip lorawan stack\results\qsm\qsm.c
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+	"qsm.h"
+	"qsm_event_handler.h"
+
+1588307290 c:\sherwin\knowledgebase\rf engineering\lora\1-week microchip lorawan stack\results\qsm\qsm_event_handler.h
+
+1588307570 source:c:\sherwin\knowledgebase\rf engineering\lora\1-week microchip lorawan stack\results\qsm\qsm_event_handler.c
+	<stdio.h>
+	"qsm.h"
+	"qsm_event_handler.h"
+
